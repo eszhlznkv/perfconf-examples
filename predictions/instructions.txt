@@ -1,0 +1,2 @@
+conda create --prefix ./env pandas numpy matplotlib jupyter scikit-learn
+conda activate /Users/evgenii/Documents/GitHub/perfconf/perfcong-jmeter-examples/predictions/env
